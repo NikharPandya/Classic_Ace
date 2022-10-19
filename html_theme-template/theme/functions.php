@@ -13,7 +13,7 @@ add_action('wp_enqueue_scripts', 'classic_ace_register_styles');
 
 function classic_ace_register_scripts(){
     
-    wp_enqueue_script('classicace-bootstrap', "https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js", array(), '5.2.0');
+    wp_enqueue_script('classicace-bootstrap', "https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js", array(), '5.2.0',true);
     
 }
 

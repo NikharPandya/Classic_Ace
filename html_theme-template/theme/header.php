@@ -1,3 +1,7 @@
+<html>
+  <body>
+    
+
 <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom px-5">
               <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
                 <span class="fs-4">Site Title</span>
@@ -11,4 +15,4 @@
                 <li class="nav-item"><a href="./search.html" class="nav-link">Search</a></li>
                 <li class="nav-item"><a href="./404.html" class="nav-link">404</a></li>
               </ul>
-        </header>
+</header>
