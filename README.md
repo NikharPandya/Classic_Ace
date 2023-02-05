@@ -1,2 +1,2 @@
-# Classic Ace Wordpress Classic Theme
+# Classic Ace Wordpress Theme
 Classic Wordpress Theme built with WP developing convections
