@@ -1,10 +1,12 @@
 <html>
-  <body>
-    
 
+<?php 
+wp_head();
+?>
+<body>
 <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom px-5">
               <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-                <span class="fs-4">Site Title</span>
+                <span class="fs-4"><?php wp_title() ?></span>
               </a>
               <ul class="nav nav-pills">
                 <li class="nav-item"><a href="./front-page.html" class="nav-link" aria-current="page">Front page</a></li>

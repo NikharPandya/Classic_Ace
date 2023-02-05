@@ -1,6 +1,4 @@
-<?php 
-wp_head();
-?>
+<?php get_header(); ?>
 
 <?php 
  if( have_posts() ) :
@@ -9,6 +7,6 @@ wp_head();
     endwhile;
 endif;
  ?>
-<?php 
-wp_footer();
-?>
+
+ 
+ <?php  get_footer(); ?>
