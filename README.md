@@ -1,2 +1,2 @@
-# html_theme-template
-classic ace v1.0
+# Classic Ace Wordpress Classic Theme
+Classic Wordpress Theme built with WP developing convections
